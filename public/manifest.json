@@ -4,8 +4,8 @@
   "description": "Quản lý chi tiêu thông minh với AI",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#FFF7ED",
-  "theme_color": "#F97316",
+  "background_color": "#1F1F1F",
+  "theme_color": "#FF9316",
   "orientation": "portrait",
   "icons": [
     {
